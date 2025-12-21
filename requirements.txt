@@ -1,0 +1,15 @@
+# LangChain и LangGraph для мультиагентных систем
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+langgraph>=0.0.20
+
+# Pydantic для валидации данных
+pydantic>=2.0
+
+# Работа с переменными окружения
+python-dotenv>=1.0.0
+
+# Дополнительные зависимости (если используются)
+typing-extensions>=4.8.0
+
